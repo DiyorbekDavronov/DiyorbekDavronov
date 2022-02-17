@@ -12,9 +12,26 @@ Here are some ideas to get you started:
 
 ### Tools and Programs:
 
-
+[<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
+[<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />]()
+[<img align="left" alt="Fast API" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/fastapi.svg" />]()
+[<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />]()
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
+[<img align="left" alt="Pycharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" />]()
 [<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
-[<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
+[<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />]()
+[<img align="left" alt="Telegram" width="30px" src="https://github.com/siberfx/siberfx/blob/main/icons/telegram.gif" />][telegram]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
+[<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/linux.svg" />]()
+[<img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />]()
+
+
+
 
 <br />
 <br />
@@ -52,10 +69,10 @@ Here are some ideas to get you started:
 
 <br />
 
-[email]: mailto:odil.bukh@gmail.com
-[telegram]: https://t.me/OTeleg
-[instagram]: https://instagram.com/odil_davronov
-[linkedin]: https://www.linkedin.com/in/odil-davronov-1a1463202
+[email]: mailto:diyorbekdavronov@yahoo.com
+[telegram]: https://t.me/Davronov_Diyorbek
+[instagram]: https://www.instagram.com/davronovdiyorbek/
+
 
 [laravel]: https://laravel.com
 [symfony]: https://symfony.com
