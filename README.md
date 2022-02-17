@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 [<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
-[<img align="left" alt="Bootstrap" width="30px" src="hhttps://github.com/siberfx/siberfx/blob/main/icons/bootstrap.png" />][bootstrap]
+[<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 
 <br />
 <br />
