@@ -11,12 +11,10 @@ Here are some ideas to get you started:
 <br />
 
 ### Tools and Programs:
-[<img align="left" alt="Linux" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
-[<img align="left" alt="Linux Ubuntu" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
-[<img align="left" alt="Docker" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
-[<img align="left" alt="PhpStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
+
+
 [<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
-[<img align="left" alt="PostMan" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
+[<img align="left" alt="Bootstrap" width="30px" src="hhttps://github.com/siberfx/siberfx/blob/main/icons/bootstrap.png" />][bootstrap]
 
 <br />
 <br />
