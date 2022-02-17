@@ -30,27 +30,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/linux.svg" />]()
 [<img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />]()
 
-
-
-
-<br />
-<br />
-
-### Technologies I am familiar with:
-[<img align="left" alt="Php" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
-[<img align="left" alt="Laravel" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/laravel.png" />][laravel]
-[<img align="left" alt="Symfony" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png" />][symfony]
-[<img align="left" alt="Linux Terminal" width="30px" src="https://cdn-icons-png.flaticon.com/512/5064/5064876.png" />][shell]
-[<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
-[<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
-[<img align="left" alt="Redis" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/redis.png" />][redis]
-[<img align="left" alt="Vue" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/apache.png" />][apache]
-[<img align="left" alt="Vue" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2377737431551941711-512.png" />][nginx]
-[<img align="left" alt="Docker" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919840.png" />][composer]
-[<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
-[<img align="left" alt="Vue" width="30px" src="https://cdn-icons-png.flaticon.com/512/59/59137.png" />][wordpress]
-[<img align="left" alt="Vue" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
-
 <br />
 <br />
 <br />
